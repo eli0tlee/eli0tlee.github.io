@@ -6,7 +6,7 @@
     "email": "eliotlee@hawaii.edu",
     "phone": "808-647-1958",
     "website": "https://eli0tlee.github.io",
-    "summary": "I am studying for B.S. in Statistics and B.B.A. in Business Administration in the College of Liberal Studies at the Seoul National University. I am currently in the University of Hawaii at Manoa as an exchange student. I expect to graduate in Fall, 2023.",
+    "summary": "I am studying for B.S. in Statistics and B.B.A. in Business Administration in the College of Liberal Studies at the Seoul National University. I am currently at the University of Hawaii at Manoa as an exchange student. I expect to graduate in Fall, 2023.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "eli0tlee", "url": "http://github.com/eli0tlee" },
@@ -18,8 +18,7 @@
     { "name": "Data Science" },
     { "name": "Statistical Learning" },
     { "name": "Business Analytics" },
-    { "name": "Aviation" },
-    { "name": "Disability Rights" }
+    { "name": "Aviation" }
   ],
   "skills": [
     {
