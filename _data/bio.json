@@ -1,26 +1,25 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Eliot Lee",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/eli0tlee.png",
+    "email": "eliotlee@hawaii.edu",
+    "phone": "808-647-1958",
+    "website": "https://eli0tlee.github.io",
+    "summary": "I am studying for B.S. in Statistics and B.B.A. in Business Administration in the College of Liberal Studies at the Seoul National University. I am currently in the University of Hawaii at Manoa as an exchange student. I expect to graduate in Fall, 2023.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "eli0tlee", "url": "http://github.com/eli0tlee" },
+      { "network": "linkedin", "username": "eli0tlee", "url": "http://linkedin.com/in/eli0tlee" },
+      { "network": "instagram", "username": "idioteliot", "url": "http://instagram.com/idioteliot" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Data Science" },
+    { "name": "Statistical Learning" },
+    { "name": "Business Analytics" },
+    { "name": "Aviation" },
+    { "name": "Disability Rights" }
   ],
   "skills": [
     {
