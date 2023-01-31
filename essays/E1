@@ -10,6 +10,10 @@ labels:
 ---
 
 # WoD 1
-The first WOD was about organizing basic contents comprised with text and images. It was the most interesting WOD among three WODs since I was able to apply the HTML syntax to real code works. I created links of people and companies which can be connected to their wikipedia page. There was no big difficulty with conducting WOD 1.
+The first WOD was about organizing basic contents comprised with text and images. It was the most interesting WOD among three WODs since I was able to apply the HTML syntax to real code works. I created links of people and companies which can be connected to their wikipedia page. There was no big difficulty with conducting WOD 1, so I was able to finish it within the AV time.
 
 # WOD 2
+In the second WOD, I had to add some visual elements using basic CSS styles features. There are three ways to add CSS styles to a HTML file, and the instruction asked me to create an external CSS style sheet. Most of the things were straightforward, but setting the font using Google Web Fonts was a bit unfamiliar to me. I was able to finish the task within the AV time.
+
+# WOD 3
+Goal of the third WOD was to add more sophisticated visual elements to the HTML file using advanced CSS style features compared to WOD 2. It was definitely the most difficult one, and I was not able to finish with in the DNF at my first trial. Therefore, I watched the solution and realized the importance of using class in the style sheet. Creating class and applying it on HTML made the whole process far easier. I was able to finish the task within the AV time at my second trial.
